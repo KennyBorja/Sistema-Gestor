@@ -1,0 +1,4 @@
+Titanic#PassengerId#int#8#Survived#int#8#Pclass#int#8#Name#string#57#Sex#string#6#Age#int#8#SibSp#int#8#Parch#int#8#Ticket#string#16#Fare#double#9#Cabin#string#11#Embarked#char#1
+post#UserID#int#8#postID#int#8#contenet#string#50#Date#string#10
+qw#pedro#string#12
+q#1#1#1
